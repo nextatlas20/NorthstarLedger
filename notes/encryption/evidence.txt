@@ -1,0 +1,7 @@
+control: encryption
+owner: Omar Vale
+reviewed: 2048-08-01
+status: verified
+source: ignored
+retention: 9
+priority: critical

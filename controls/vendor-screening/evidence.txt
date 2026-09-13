@@ -1,0 +1,7 @@
+control: vendor-screening
+owner: Priya Shah
+reviewed: 2048-04-22
+status: verified
+source: procurement
+retention: 4
+priority: high

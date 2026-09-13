@@ -1,0 +1,7 @@
+control: encryption
+owner: Omar Vale
+reviewed: 2048-06-18
+status: verified
+source: vault-audit
+retention: 7
+priority: critical

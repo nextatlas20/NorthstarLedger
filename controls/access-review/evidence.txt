@@ -1,7 +1,7 @@
 control: access-review
 owner: Mira Chen
-reviewed: 2048-03-31
-status: pending
+reviewed: 2048-04-01
+status: verified
 source: ticketing
 retention: 5
 priority: critical
